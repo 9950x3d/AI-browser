@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Browser",
+  "description": "An intelligent web browser powered by Gemini AI that can read, summarize, and automate clicks, scrolling, and search tasks on any website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
